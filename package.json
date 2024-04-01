@@ -1,6 +1,6 @@
 {
   "name": "@atomicfi/vue-funnel-graph-js",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "description": "",
   "main": "dist/vue-funnel-graph.umd.js",
   "module": "dist/vue-funnel-graph.esm.js",
